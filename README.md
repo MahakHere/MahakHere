@@ -1,5 +1,5 @@
 <div align="center">
- <b>Mahak Agrawal</b>
+ <b>Hi, I'm Mahak👋</b>
 </div>
 <div align="center">
   Developer | IIT Jodhpur
