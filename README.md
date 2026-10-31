@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&section=header&reversal=false&text=Mahak+Agrawal&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&animation=twinkling&stroke=ffffff&strokeWidth=5&descSize=20&descAlign=50&descAlignY=60">
+<img src="https://capsule-render.vercel.app/api?type=slice&height=300&color=gradient&section=header&reversal=false&text=Mahak+Agrawal&textBg=false&fontColor=FFF&fontSize=70&fontAlign=50&fontAlignY=50&animation=twinkling&rotate=0&stroke=FFFFFF&strokeWidth=5&descSize=20&descAlign=50&descAlignY=60">
 
 <h2 data-importer="text" align="left">👩‍💻About Me:</h2>
 <p>Hey There! I am currently pursuing <b>Btech in Computer Science from IIT Jodhpur</b>, interested in <b>frontend, backend infrastructure and scalable platforms</b>.</p>
